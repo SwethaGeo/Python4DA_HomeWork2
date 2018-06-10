@@ -35,7 +35,7 @@ print("\nMinimum value of matrix A:",min_A)
 print("\nMaximum value of matrix A:",max_A)
  
 #Create vector X (an array) with 4 random numbers
-X = np.array(random.random(4))
+X = random.random(4)
 print("\nVector X:\n",X)
 
 #Create a function and pass vector X and matrix A in it
